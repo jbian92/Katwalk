@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories">
+        <item>Tops       </item>
+        <item>Bottoms    </item>
+        <item>Dresses    </item>
+        <item>Shoes      </item>
+        <item>Accessories</item>
+    </string-array>
+
+    <string-array name="sub_tops">
+        <item>Sleeveless  </item>
+        <item>T-Shirt     </item>
+        <item>Long-Sleeved</item>
+        <item>Sweater     </item>
+        <item>Sweatshirt  </item>
+    </string-array>
+
+    <string-array name="sub_bottoms">
+        <item>Jeans     </item>
+        <item>Sweatpants</item>
+        <item>Shorts    </item>
+        <item>Trousers  </item>
+        <item>Skirts    </item>
+        <item>Leggings  </item>
+    </string-array>
+
+    <string-array name="sub_dresses">
+        <item>Short      </item>
+        <item>Knee-Length</item>
+        <item>Maxi       </item>
+    </string-array>
+
+    <string-array name="sub_shoes">
+        <item>Trainers   </item>
+        <item>Sandals    </item>
+        <item>Dress Shoes</item>
+        <item>Boots      </item>
+        <item>Heels      </item>
+        <item>Slides     </item>
+    </string-array>
+
+    <string-array name="sub_accessories">
+        <item>Hats   </item>
+        <item>Glasses</item>
+        <item>Jewelry</item>
+        <item>Gloves </item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Black </item>
+        <item>White </item>
+        <item>Red   </item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green </item>
+        <item>Blue  </item>
+        <item>Purple</item>
+        <item>Gray  </item>
+    </string-array>
+
+    <string-array name="style">
+        <item>Casual  </item>
+        <item>Business</item>
+        <item>Formal  </item>
+    </string-array>
+
+    <string-array name="weather">
+        <item>&lt;=30°F</item>
+        <item>31-40°F</item>
+        <item>41-50°F</item>
+        <item>51-60°F</item>
+        <item>61-70°F</item>
+        <item>71-80°F</item>
+        <item>81-90°F</item>
+        <item>&gt;90°F</item>
+    </string-array>
+
+
+    <string-array name="clothingTypes">
+        <item>Casual</item>
+        <item>Business</item>
+        <item>Formal</item>
+    </string-array>
+
+
+</resources>

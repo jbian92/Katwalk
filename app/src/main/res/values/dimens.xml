@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="outfit_cards_width">150dp</dimen>
+    <dimen name="outfit_cards_height">110dp</dimen>
+    <dimen name="outfit_single_width">50dp</dimen>
+    <dimen name="_1sdp">1dp</dimen>
+</resources>

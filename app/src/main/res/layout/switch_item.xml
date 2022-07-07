@@ -1,0 +1,29 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ToggleButton
+        android:id="@+id/off"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/click_temp"
+        android:checked="true"
+        android:textColor="#000"
+        android:textOff="@string/fahern"
+        android:textOn="@string/fahern"
+        android:layout_marginStart="100dp"
+        />
+
+    <ToggleButton
+        android:id="@+id/on"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/click_temp"
+        android:checked="false"
+        android:textColor="#000"
+        android:textOff="@string/cel"
+        android:textOn="@string/cel" />
+</RelativeLayout>

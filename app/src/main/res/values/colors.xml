@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name ="white">#ffffff</color>
+    <color name ="black">#000000</color>
+    <color name ="colorSettings">#f7edff</color>
+    <color name ="colorBackground">#bba4f7</color>
+    <color name ="colorAppBar">#5a31a6</color>
+    <color name ="lavSettings">#f7edff</color>
+    <color name ="lavBackground">#bba4f7</color>
+    <color name ="lavAppBar">#5a31a6</color>
+    <color name ="pastelSettings">#ff0000</color>
+    <color name ="pastelBackground">#ff0000</color>
+    <color name ="pastelAppBar">#ff0000</color>
+    <color name ="skySettings">#ff0000</color>
+    <color name ="skyBackground">#ff0000</color>
+    <color name ="skyAppBar">#ff0000</color>
+    <color name ="honeySettings">#ff0000</color>
+    <color name ="honeyBackground">#ff0000</color>
+    <color name ="honeyAppBar">#ff0000</color>
+    <color name ="fabColor">#ffcdd2</color>
+</resources>

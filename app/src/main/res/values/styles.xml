@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TeamF" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorBackground</item>
+        <item name="colorOnPrimary">@color/colorBackground</item>
+        <!-- Secondary brand color. -->
+        <item name="android:textColorSecondary">@color/colorBackground</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Apply" parent="">
+        <item name="android:background">@drawable/bg_apply</item>
+    </style>
+
+    <style name="Filter" parent="">
+        <item name="android:background">@drawable/bg_filter</item>
+    </style>
+
+    <style name="Generate" parent="">
+        <item name="android:background">@drawable/bg_generate</item>
+    </style>
+
+    <style name="Spinner" parent="">
+        <item name="android:background">@drawable/bg_spinner</item>
+    </style>
+
+    <style name="Weather" parent="">
+        <item name="android:background">@drawable/bg_weather</item>
+    </style>
+
+    <style name="Lavender" parent="">
+        <item name="android:background">@drawable/lavender_button</item>
+        <item name="listPreferredItemPaddingLeft">50dp</item>
+    </style>
+
+    <style name="Search" parent="">
+        <item name="android:background">@drawable/dropdown_border</item>
+    </style>
+
+    <style name = "FavButton">
+        <item name="android:background">@drawable/fav_flip_color</item>
+    </style>
+
+</resources>
