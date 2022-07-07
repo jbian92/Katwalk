@@ -1,0 +1,52 @@
+Stand-up Meeting Summaries
+
+SPRINT 1
+3/29:
+- We divided up the work for the sprint.
+- Christian will work on setting up the navigation between the different screens.
+- Kai and Jonathon will work on setting up the Firebase database and the Donate page.
+- Julia and Mung Yao will work on the Closet page.
+
+4/1:
+- Everyone has started working on their tasks but nothing fully completed yet.
+
+4/5: (Met with Elaine)
+- Christian finished implementing the bottom tab navigation and creating placeholder fragments.
+- Kai is still working on setting up and connecting to the Firebase database.
+- Jonathon is still working on the donation information links. 
+- Julia is still working on the Closet page grid layout.
+- Mung Yao is still working on the search placeholder and getting images from the gallery for the Closet page.
+
+4/8:
+- The database is set up, and donation links are added. 
+- The Closet page is almost done — fully-functioning Closet page will be pushed tomorrow.
+- Christian and Kai are working on connecting the database to the app for images. 
+- Jonathon is working on getting the Donation page to look like the one in the design document. 
+- We have planned to film the demo on 4/10. 
+
+SPRINT 2
+4/12: (Met with Elaine)
+- We divided up the work for sprint 2.
+- Christian will work on Filter and the Settings drawer.
+- Kai will work on the Wear button and Outfit Generation.
+- Julia will work on Creating an Outfit and Adding Items to an Outfit during creation.
+- Mung Yao will work on the main Favorites page.
+- Jonathon will work on the Donate button and displaying the Least Worn Clothing Items. 
+
+4/15:
+- Everyone is still working on implementing their respective tasks. 
+
+4/19: (Met with Elaine)
+- Christian has made progress on the Search feature, the Weather API, and the Settings drawer.
+- Kai is still working on the Outfits page.
+- Julia, Mung Yao, and Jonathon are also still working on their tasks and plan to finish up by Friday.
+
+4/22:
+- Everyone is on track to finish their tasks by Sunday.
+- We began working together on creating the presentation slides. 
+
+4/26: (Met with Elaine)
+- We planned out how to present for the presentation on Wednesday. 
+- Mung Yao and Julia will narrate during the demo while Kai works the Android device.
+- Christian, Jonathon, and Kai will present the slides. 
+- Everyone will work on fixing any bugs/issues with the app in the following days.
