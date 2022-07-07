@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974059391267",
+    "project_id": "katwalk-6a287",
+    "storage_bucket": "katwalk-6a287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974059391267:android:f96b06e09de061f4f46496",
+        "android_client_info": {
+          "package_name": "com.example.teamf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974059391267-1v4vdpjfknv37liuv72rpmi4oe9fde5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuFjshW0HzxjrM6aIWSZwSgkmWvl2LmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974059391267-1v4vdpjfknv37liuv72rpmi4oe9fde5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
