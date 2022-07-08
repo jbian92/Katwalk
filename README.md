@@ -1,4 +1,5 @@
 # Katwalk
+### This Android app was created during JHU's course User Interfaces and Mobile Applications.
 
 ## App Proposal: https://docs.google.com/presentation/d/1K2V8Zn5YH0Clox_hg9f0G1c_vhf-RHoRGbP7ljlmJ_E/edit?usp=sharing 
 
