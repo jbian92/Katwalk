@@ -1,4 +1,6 @@
-# Team-F
+# Katwalk
+
+## App Proposal: https://docs.google.com/presentation/d/1K2V8Zn5YH0Clox_hg9f0G1c_vhf-RHoRGbP7ljlmJ_E/edit?usp=sharing 
 
 ## Sprint 1
 ### Completed Features
